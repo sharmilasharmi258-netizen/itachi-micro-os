@@ -1,6 +1,5 @@
 # Itachi Micro-OS: Rust Systems Engineering & Live-Bootable OS
 **Course:** Operating Systems | Continuous Assessment 6 (15 Marks)
-**Project Lead:** Shreyas & Team
 
 ---
 
